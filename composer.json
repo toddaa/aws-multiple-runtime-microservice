@@ -1,0 +1,14 @@
+{
+	"name": "php-lambda-test",
+	"description": "",
+	"type": "project",
+	"license": "proprietary",
+	"authors": [{
+		"name": "Aaron Todd",
+		"email": "toddaa@gmail.com"
+	}],
+	"minimum-stability": "dev",
+	"require": {
+		"guzzlehttp/guzzle": "^6.3@dev"
+	}
+}

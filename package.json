@@ -1,0 +1,17 @@
+{
+	"name": "js-lambda-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"clean": "rm -rf node_modules",
+		"reinstall": "npm run clean && npm install"
+	},
+	"author": {
+		"name": "Aaron Todd",
+		"email": "toddaa@gmail.com"
+	},
+	"license": "UNLICENSED",
+	"dependencies": {},
+	"devDependencies": {}
+}
